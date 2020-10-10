@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Feature: index.html page created commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Feature: DNS page created commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="DomainIcann" />
+        <entry key="$PROJECT_DIR$" value="DNS" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +55,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -74,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602244735704</updated>
       <workItem from="1602244736995" duration="789000" />
-      <workItem from="1602342911136" duration="647000" />
+      <workItem from="1602342911136" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: index.html page created commit">
       <created>1602244976422</created>
@@ -90,7 +89,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602342990575</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature: IP adress page created commit">
+      <created>1602346879831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602346879831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature: DNS page created commit">
+      <created>1602346977125</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602346977125</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature: DNS page created commit">
+      <created>1602347044916</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602347044916</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,12 +130,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feature: index.html page created commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: index.html page created commit" />
+    <MESSAGE value="Feature: IP adress page created commit" />
+    <MESSAGE value="Feature: DNS page created commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: DNS page created commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602244990492">
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602347054061">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602244990491" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602347054061" />
   </component>
 </project>
