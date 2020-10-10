@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Feature: DNS page created commit">
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Feature: .ideas added to README file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/Domain and ICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Domain and ICANN.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602347044916</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="task: updated nav bar functionality with new hmtml files">
+      <created>1602348301262</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602348301262</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature: .ideas added to README file">
+      <created>1602348403785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602348403785</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -134,12 +149,14 @@
     <MESSAGE value="Feature: index.html page created commit" />
     <MESSAGE value="Feature: IP adress page created commit" />
     <MESSAGE value="Feature: DNS page created commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: DNS page created commit" />
+    <MESSAGE value="task: updated nav bar functionality with new hmtml files" />
+    <MESSAGE value="Feature: .ideas added to README file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: .ideas added to README file" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602347054061">
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602348412851">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602347054061" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602348412851" />
   </component>
 </project>
