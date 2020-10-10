@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Feature: .ideas added to README file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: uploaded .png to img folder">
       <change beforePath="$PROJECT_DIR$/docs/Domain and ICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Domain and ICANN.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +65,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -127,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602348403785</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Task: uploaded .png to img folder">
+      <created>1602365338360</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602365338360</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,12 +162,13 @@
     <MESSAGE value="Feature: DNS page created commit" />
     <MESSAGE value="task: updated nav bar functionality with new hmtml files" />
     <MESSAGE value="Feature: .ideas added to README file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: .ideas added to README file" />
+    <MESSAGE value="Task: uploaded .png to img folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: uploaded .png to img folder" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602348412851">
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602365343970">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602348412851" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602365343970" />
   </component>
 </project>
