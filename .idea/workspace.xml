@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: uploaded .png to img folder">
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: img banner added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Domain and ICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Domain and ICANN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -149,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602365338360</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task: img banner added">
+      <created>1602369955870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602369955870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,7 +183,8 @@
     <MESSAGE value="task: updated nav bar functionality with new hmtml files" />
     <MESSAGE value="Feature: .ideas added to README file" />
     <MESSAGE value="Task: uploaded .png to img folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: uploaded .png to img folder" />
+    <MESSAGE value="Task: img banner added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: img banner added" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1177" height="218" key="GridCell.Tab.0.bottom" timestamp="1602369724614">
@@ -241,9 +251,13 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state width="1177" height="218" key="GridCell.Tab.3.right/0.23.1280.749@0.23.1280.749" timestamp="1602369724624" />
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602365343970">
+    <state x="30" y="23" key="SettingsEditor" timestamp="1602377411218">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602365343970" />
+    <state x="30" y="23" key="SettingsEditor/0.23.1280.749@0.23.1280.749" timestamp="1602377411218" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602369962657">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602369962657" />
   </component>
 </project>
