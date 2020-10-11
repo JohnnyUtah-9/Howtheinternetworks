@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: uploaded .png to img folder">
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: img banner added">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Domain and ICANN.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Domain and ICANN.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/images.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/images.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="DNS" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -64,12 +66,23 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Domain and ICANN.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Howtheinternetworks/docs/Domain and ICANN.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Domain and ICANN.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -138,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602365338360</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task: img banner added">
+      <created>1602369955870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602369955870</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,12 +183,81 @@
     <MESSAGE value="task: updated nav bar functionality with new hmtml files" />
     <MESSAGE value="Feature: .ideas added to README file" />
     <MESSAGE value="Task: uploaded .png to img folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: uploaded .png to img folder" />
+    <MESSAGE value="Task: img banner added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task: img banner added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602365343970">
+    <state width="1177" height="218" key="GridCell.Tab.0.bottom" timestamp="1602369724614">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602365343970" />
+    <state width="1177" height="218" key="GridCell.Tab.0.bottom/0.23.1280.749@0.23.1280.749" timestamp="1602369724614" />
+    <state width="1177" height="218" key="GridCell.Tab.0.center" timestamp="1602369724613">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.0.center/0.23.1280.749@0.23.1280.749" timestamp="1602369724613" />
+    <state width="1177" height="218" key="GridCell.Tab.0.left" timestamp="1602369724612">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.0.left/0.23.1280.749@0.23.1280.749" timestamp="1602369724612" />
+    <state width="1177" height="218" key="GridCell.Tab.0.right" timestamp="1602369724613">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.0.right/0.23.1280.749@0.23.1280.749" timestamp="1602369724613" />
+    <state width="1177" height="218" key="GridCell.Tab.1.bottom" timestamp="1602369724618">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.1.bottom/0.23.1280.749@0.23.1280.749" timestamp="1602369724618" />
+    <state width="1177" height="218" key="GridCell.Tab.1.center" timestamp="1602369724615">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.1.center/0.23.1280.749@0.23.1280.749" timestamp="1602369724615" />
+    <state width="1177" height="218" key="GridCell.Tab.1.left" timestamp="1602369724615">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.1.left/0.23.1280.749@0.23.1280.749" timestamp="1602369724615" />
+    <state width="1177" height="218" key="GridCell.Tab.1.right" timestamp="1602369724617">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.1.right/0.23.1280.749@0.23.1280.749" timestamp="1602369724617" />
+    <state width="1177" height="218" key="GridCell.Tab.2.bottom" timestamp="1602369724621">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.2.bottom/0.23.1280.749@0.23.1280.749" timestamp="1602369724621" />
+    <state width="1177" height="218" key="GridCell.Tab.2.center" timestamp="1602369724620">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.2.center/0.23.1280.749@0.23.1280.749" timestamp="1602369724620" />
+    <state width="1177" height="218" key="GridCell.Tab.2.left" timestamp="1602369724619">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.2.left/0.23.1280.749@0.23.1280.749" timestamp="1602369724619" />
+    <state width="1177" height="218" key="GridCell.Tab.2.right" timestamp="1602369724621">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.2.right/0.23.1280.749@0.23.1280.749" timestamp="1602369724621" />
+    <state width="1177" height="218" key="GridCell.Tab.3.bottom" timestamp="1602369724625">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.3.bottom/0.23.1280.749@0.23.1280.749" timestamp="1602369724625" />
+    <state width="1177" height="218" key="GridCell.Tab.3.center" timestamp="1602369724623">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.3.center/0.23.1280.749@0.23.1280.749" timestamp="1602369724623" />
+    <state width="1177" height="218" key="GridCell.Tab.3.left" timestamp="1602369724622">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.3.left/0.23.1280.749@0.23.1280.749" timestamp="1602369724622" />
+    <state width="1177" height="218" key="GridCell.Tab.3.right" timestamp="1602369724624">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state width="1177" height="218" key="GridCell.Tab.3.right/0.23.1280.749@0.23.1280.749" timestamp="1602369724624" />
+    <state x="30" y="23" key="SettingsEditor" timestamp="1602377411218">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="30" y="23" key="SettingsEditor/0.23.1280.749@0.23.1280.749" timestamp="1602377411218" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602369962657">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602369962657" />
   </component>
 </project>
