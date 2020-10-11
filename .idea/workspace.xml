@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: img banner added">
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Merge pull request #7 from JohnnyUtah-9/images&#10;&#10;Images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/Ip.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Ip.html" afterDir="false" />
     </list>
@@ -157,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602369955870</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge pull request #7 from JohnnyUtah-9/images&#10;&#10;Images">
+      <created>1602380503690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602380503690</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +190,9 @@
     <MESSAGE value="Feature: .ideas added to README file" />
     <MESSAGE value="Task: uploaded .png to img folder" />
     <MESSAGE value="Task: img banner added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task: img banner added" />
+    <MESSAGE value="Task: Domain and ICANN format page finished." />
+    <MESSAGE value="Merge pull request #7 from JohnnyUtah-9/images&#10;&#10;Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #7 from JohnnyUtah-9/images&#10;&#10;Images" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1177" height="218" key="GridCell.Tab.0.bottom" timestamp="1602369724614">
@@ -254,9 +263,9 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="30" y="23" key="SettingsEditor/0.23.1280.749@0.23.1280.749" timestamp="1602377411218" />
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602369962657">
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602380510052">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602369962657" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602380510052" />
   </component>
 </project>

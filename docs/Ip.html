@@ -12,7 +12,7 @@
 <style>
 
     body{
-        background-color: deepskyblue
+        background-color: lightgrey;
     }
     .banner {
         width: 100%;
@@ -37,26 +37,40 @@
 
 <body>
 <div class="container">
-    <img class="banner" src="../image/network.jpeg" alt="Network" />
+    <img class="banner" src="../img/Ipnetwork.jpeg" alt="IP Network Address" />
 </div>
 
 <h1>
-    The Invention of the Internet
+    IP Addresses, Packets and Routing
 </h1>
-<h3>Concept</h3>
-<p1>While many scientists and engineers, like Nikola Tesla theorized of systems like the internet we know today, the idea was first conceptualized in the early 1960’s by J.C.R. Licklider, a renowned psychologist at MIT. Licklider believed early on that computers would allow for a more effective way to communicate, therefore creating a massive network of data exchange amongst its users. Due to the confrontational landscape the United States found themselves in with the rise of technology advancement from the USSR, Eisenhower forged an organization known as ARPA (Advanced Research Projects Agency) to aid in the advancement of space exploration and computer science. Then the space exploration received its own dedicated organization – NASA. </p1>
+<h3>What's an IP address?</h3>
+<p1>According to <a href="https://en.wikipedia.org/wiki/IP_address">Wikipedia</a>, an IP address stands for an Internet Protocol Address (IP Address). How does user and sender information get encoded and transmitted across IP Addresses? Good question, Wikipedia has some more suggested answers: </p1>
+<ol>
+    <li> Internet Protocol version 4 (IPv4) defines an IP address as a 32-bit number. </li>
+    <li>However, because of the growth of the Internet and the depletion of available IPv4 addresses, a new version of IP (IPv6), using 128 bits for the IP address, was standardized in 1998 </li>
+    <li>The IP address space is managed globally by the Internet Assigned Numbers Authority (IANA), and by five regional Internet registries (RIRs) responsible in their designated territories for assignment to local Internet registries, such as Internet service providers (ISPs), and other end users.</li>
+</ol>
+<iframe width="663" height="373" src="https://www.youtube.com/embed/8zEVA-Bxs-0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h1>Packets</h1>
+<h3>What are data <i>Packets</i>?</h3>
+<p> <a href="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm">The Seven Key Principles of Data Transmission</a></p>
+<p2> As cited in the above mentioned documentation, data packets resolve the issues of "message must be translated from alphabetic text into electronic signals, transmitted over the Internet, then translated back into alphabetic text. How is this accomplished? Through the use of a protocol stack. Every computer needs one to communicate on the Internet and it is usually built into the computer's operating system (i.e. Windows, Unix, etc.). The protocol stack used on the Internet is refered to as the TCP/IP protocol stack because of the two major communication protocols used."</p2>
+<figure>
+<img src="../img/Screen%20Shot%202020-10-10%20at%2010.03.47%20PM.png" alt="ICANN" class="w3-border w3-padding" height="50%" width="50%">
+<figcaption> Data Packet transfer properties</figcaption>
+</figure>
+<h3><strong> How do Packets work?</strong></h3>
+<iframe width="663" height="373" src="https://www.youtube.com/embed/O7CuFlM4V54" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h3>Development</h3>
-<p2>Shortly after the computer science objective fell to researchers. Dr. Leonard Kleinrock a researcher at MIT began developing Queueing Theory. Queueing theory focused on two principles to advance the idea of resource sharing. The first principle was Demand Access, which focused on the idea of not obtaining what you need until you need it. The second principle being Distributed Control, which focused on a singular device would not control the entire network but rather every device share in the authority of the network, contributing collectively. This paved the way for the advancement of data transmission, and ultimately setting the stage for the need of a more efficient means of communicating due to the flaws of telephony’s circuit switching method.</p2>
-
-<p>In the late 1960’s the first prototype of the internet was developed. In 1966 Bob Taylor of ARPA was required to use multiple terminals to access different computers. His theory of being able to utilize a single terminal to access multiple computers and transferring files amongst them led to ARPA receiving funding his research from the Department of Defense. Dr. Lawrence Roberts built the first experimental connection between two computers at the Lincoln laboratory, as he was familiar with the queueing theory through his relationship with Dr. Kleinrock. He was hired by ARPA to scale the networking model. Eventually Roberts discovered how to efficiently build this through IMPs (Interface Message Processors), and packet switching became reality, the first edition of the gateway and now today achieved through routers.</p>
-
-<h3>Deployment</h3>
-<p3>In 1969, the first “Node to Node” ARPAnet message was sent in partnership with UCLA, the site of the first computer in the network, and Stanford being the second. Eventually leading up to 18 active computers on the network. The technology continuously grew, with the introduction of the TCP/IP protocol (Transmission Control Protocol and Internet Protocol) developed by scientists Robert Kahn and Vinton Cerf. In 1983 ARPnet adopted the TCP/IP protocol which created what is today known as the modern internet. In 1990 a computer scientist, Tim Berners-Lee made Licklider’s dream a reality and formed what we now know as the world wide web, bringing the idea of global users both accessing and sharing data across a global network. </p3>
-
-
+<h1 align="center">Routing</h1>
+<p><i><strong>Understanding Packet Routing Networks</strong></i></p>
+<p>As detailed by Steven Li in his medium post on software engineering entitled: <i><a href="https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8">How does the Internet Work?</a></i>,
+ "It is a network that routes packets from a source computer to a destination computer. The Internet is made up of a massive network of specialized computers called routers. Each router’s job is to know how to move packets along from their source to their destination. A packet will have moved through multiple routers during its journey."(Li)</p>
+<iframe width="700" height="300" src="https://www.youtube.com/embed/gQtgtKtvRdo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </container>
 
+<footer><Strong>Further Resources:</Strong>
+    <p><a href="https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm">IP Address</a> | <a href="https://en.wikipedia.org/wiki/Routing"</a><Strong>Routing</Strong> | <a href="https://medium.com/@User3141592/how-does-the-internet-work-edc2e22e7eb8"><strong>Packet</strong></a></p>
 </body>
 
 
