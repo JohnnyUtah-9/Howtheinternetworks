@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: http page finished" />
+    <list default="true" id="acb21dab-d1f1-4acd-a13e-9314e3fe93b4" name="Default Changelist" comment="Task: http page finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,6 +70,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -91,6 +94,7 @@
       <updated>1602244735704</updated>
       <workItem from="1602244736995" duration="789000" />
       <workItem from="1602342911136" duration="980000" />
+      <workItem from="1602808695406" duration="509000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: index.html page created commit">
       <created>1602244976422</created>
@@ -183,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602462674641</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task: http page finished">
+      <created>1602798922203</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602798922203</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,13 +291,21 @@
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state width="1177" height="218" key="GridCell.Tab.3.right/0.23.1280.749@0.23.1280.749" timestamp="1602369724624" />
+    <state x="88" y="53" key="MergeDialog" timestamp="1602798847182">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="88" y="53" key="MergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1602798847182" />
+    <state x="238" y="132" key="MultipleFileMergeDialog" timestamp="1602798847241">
+      <screen x="0" y="23" width="1280" height="749" />
+    </state>
+    <state x="238" y="132" key="MultipleFileMergeDialog/0.23.1280.749@0.23.1280.749" timestamp="1602798847241" />
     <state x="30" y="23" key="SettingsEditor" timestamp="1602377411218">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
     <state x="30" y="23" key="SettingsEditor/0.23.1280.749@0.23.1280.749" timestamp="1602377411218" />
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602387079282">
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2" timestamp="1602798930069">
       <screen x="0" y="23" width="1280" height="749" />
     </state>
-    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602387079282" />
+    <state x="208" y="156" key="Vcs.Push.Dialog.v2/0.23.1280.749@0.23.1280.749" timestamp="1602798930069" />
   </component>
 </project>
