@@ -1,4 +1,4 @@
 .idea
 
 #This is the Project Website URL:
-https://johnnyutah-9.github.io/Howtheinternetworks/
+https://github.com/JohnnyUtah-9/Howtheinternetworks.git
